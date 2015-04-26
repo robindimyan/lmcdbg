@@ -19,7 +19,7 @@ You can find the source code of a simple program which is a basic implementation
 
 Usage of the program:
 
-"lmcdbg.py <filename> [options (-c, -s)]"
+"lmcdbg.py <filename> [options (-c, -d)]"
 
 
 More information about LMC:
